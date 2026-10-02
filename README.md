@@ -2,7 +2,7 @@
 
 ### 💻 Data Science Student | Software Development Enthusiast
 
-I'm a university student passionate about **programming, software development, problem solving, and learning new technologies**. I enjoy turning ideas into practical projects and continuously improving my programming and software engineering skills.
+I'm a university student studying data science in uet currently enrolled in thurd semester 
 
 Currently, I'm building my knowledge in **Python, C++, C#, .NET, SQL, Object-Oriented Programming, Data Structures & Algorithms, Databases, and Software Engineering**.
 
